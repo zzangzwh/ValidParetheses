@@ -1,0 +1,7 @@
+C:\Users\zzang\source\repos\LeetCode-Valid_Paretheses\LeetCode-Valid_Paretheses\bin\Debug\LeetCode-Valid_Paretheses.exe.config
+C:\Users\zzang\source\repos\LeetCode-Valid_Paretheses\LeetCode-Valid_Paretheses\bin\Debug\LeetCode-Valid_Paretheses.exe
+C:\Users\zzang\source\repos\LeetCode-Valid_Paretheses\LeetCode-Valid_Paretheses\bin\Debug\LeetCode-Valid_Paretheses.pdb
+C:\Users\zzang\source\repos\LeetCode-Valid_Paretheses\LeetCode-Valid_Paretheses\obj\Debug\LeetCode-Valid_Paretheses.csproj.AssemblyReference.cache
+C:\Users\zzang\source\repos\LeetCode-Valid_Paretheses\LeetCode-Valid_Paretheses\obj\Debug\LeetCode-Valid_Paretheses.csproj.CoreCompileInputs.cache
+C:\Users\zzang\source\repos\LeetCode-Valid_Paretheses\LeetCode-Valid_Paretheses\obj\Debug\LeetCode-Valid_Paretheses.exe
+C:\Users\zzang\source\repos\LeetCode-Valid_Paretheses\LeetCode-Valid_Paretheses\obj\Debug\LeetCode-Valid_Paretheses.pdb
